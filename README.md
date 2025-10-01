@@ -33,7 +33,7 @@ Existem duas formas de rodar o ambiente de testes: **Local** (utilizando o .NET)
 
 ### 1\. Execução e Teste Local
 
-Execute os comandos a seguir no terminal, a partir da raiz do projeto (`TrabalhoP2P/`).
+Execute os comandos a seguir no terminal, a partir da raiz do projeto (`Trabalho.GA.P2P-main/`).
 
 #### 1.1. Inicializar os Peers
 
